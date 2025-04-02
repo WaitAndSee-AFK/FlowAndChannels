@@ -2,6 +2,8 @@ package org.example.lesson1
 
 import kotlin.random.Random
 
+// Это я учусь создавать ветки для GitHUB
+
 fun main() {
     var filterCount = 0
     var mapCount = 0
